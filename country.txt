@@ -1,1 +1,1 @@
-Polska,Wegry,Litwa
+Polska,Wegry,Litwa,Lotwa,Estonia,USA
